@@ -9,4 +9,4 @@ This plugin only works on **[Unreal Engine](https://github.com/EpicGames/UnrealE
 
 This currently doesn't support lower engine versions! I am still updating this plugin for other materials, its not finished yet!
 ## 💻 Setup
-Drag the repository folder into **Plugins** folder and restart Unreal Editor!
+Get the [latest release](https://github.com/MuriloGaming/MuriloShader/releases/latest) and drag it into **Plugins** folder and restart Unreal Editor!
