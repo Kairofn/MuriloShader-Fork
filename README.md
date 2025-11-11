@@ -5,7 +5,7 @@ This is an [Unreal Engine](https://github.com/EpicGames/UnrealEngine) plugin tha
 ⚠️ **WARNING!**
 If you want to use this for your work, please credit me!
 
-This plugin only works on **[Unreal Engine](https://github.com/EpicGames/UnrealEngine) 4.26+ (14.40+)**!
+This plugin only works on **[Unreal Engine](https://github.com/EpicGames/UnrealEngine) 4.26+**!
 
 This currently doesn't support lower engine versions! I am still updating this plugin for other materials, its not finished yet!
 ## 💻 Setup
